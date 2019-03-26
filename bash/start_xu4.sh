@@ -30,3 +30,4 @@ sudo usermod -aG docker $USER
 sudo systemctl enable docker
 sudo reboot
 
+#upgrading method bashed comming soon 
